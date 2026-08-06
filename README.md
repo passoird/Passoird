@@ -21,7 +21,7 @@ A multi-user password manager with built-in application locking, for Linux.
 
 ```bash
 sudo apt update
-sudo apt install ./passoird-1_0.deb
+sudo apt install ./passoird-1.0.deb
 ```
 
 This pulls in all dependencies automatically (`zenity`, `jq`, `pwgen`, `rclone`, `xclip`, `wl-clipboard`, etc.). `keyd` (for the shortcut) is also installed automatically if possible.
@@ -55,7 +55,7 @@ passoird
 
 ```bash
 sudo apt update
-sudo apt install ./passoird-1_0.deb
+sudo apt install ./passoird-1.0.deb
 ```
 
 Cela installe automatiquement toutes les dépendances (`zenity`, `jq`, `pwgen`, `rclone`, `xclip`, `wl-clipboard`, etc.). `keyd` (pour le raccourci) est aussi installé automatiquement si possible.
