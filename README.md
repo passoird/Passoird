@@ -1,4 +1,4 @@
-# 🔒 Passoird
+# 🔒 Passoird  [![Latest Release](https://img.shields.io/github/v/release/passoird/Passoird)](https://github.com/passoird/Passoird/releases/latest)
 
 A multi-user password manager with built-in application locking, for Linux.
 *Gestionnaire de mots de passe multi-utilisateur avec verrouillage d'applications, pour Linux.*
